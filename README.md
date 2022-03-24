@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey210056)](https://github.com/anuraghazra/github-readme-stats)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hey210034">
+<a href="https://solved.ac/profile/hey210034"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hey210034"></a>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
