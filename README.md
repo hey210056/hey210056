@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey210056)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://solved.ac/profile/hey210034"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hey210034"></a>
-
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
