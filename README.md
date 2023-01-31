@@ -15,4 +15,5 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>  
 <br>
 <a href="https://velog.io/@hey210056"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://diligent-net-a53.notion.site/83dfb0b6c340421092560bc9e833cc0d"><img src="https://img.shields.io/badge/Resume-fff?style=flat-square&logo=Notion&logoColor=black"/></a>
 </div>
