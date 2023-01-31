@@ -1,7 +1,7 @@
   <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hey210056&show_icons=true&theme=radical"/>
 
-  ### SiHyeon
+  ## 👋 Si Hyeon
   🌱**FE Developer**  
   
   ---
