@@ -1,0 +1,25 @@
+title: "양재천 수달 보호 단체의 Discussion"
+labels: [Discussions]
+body:
+- type: markdown
+  attributes: 
+   value: 
+   [참고 레퍼런스](https://github.com/community/community/blob/main/.github/DISCUSSION_TEMPLATE/discussions.yml)
+- type: dropdown
+  attributes:
+    label: 주제
+    description: 주제가 무엇인가요?
+    options:
+      - "Announcements"
+      - "Bugs"
+      - "Ideas"
+      - "Q&A"
+      - "Show and tell"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Body
+    description: 자유롭게 이야기를 나눠봐요!
+  validations:
+    required: true
