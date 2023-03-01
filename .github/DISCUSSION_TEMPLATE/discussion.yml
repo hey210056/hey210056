@@ -3,8 +3,8 @@ labels: [Discussions]
 body:
 - type: markdown
   attributes: 
-   value: 
-   [참고 레퍼런스](https://github.com/community/community/blob/main/.github/DISCUSSION_TEMPLATE/discussions.yml)
+   value: |
+     [참고 레퍼런스](https://github.com/community/community/blob/main/.github/DISCUSSION_TEMPLATE/discussions.yml)
 - type: dropdown
   attributes:
     label: 주제
@@ -12,9 +12,9 @@ body:
     options:
       - "Announcements"
       - "Bugs"
-      - "Ideas"
       - "Q&A"
-      - "Show and tell"
+      - "Show & Tell"
+      - "General"
   validations:
     required: true
 - type: textarea
